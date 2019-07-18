@@ -1,0 +1,12 @@
+C:\VS2017Developer\Cap01\App.Data\App.Data\bin\Debug\App.Data.dll
+C:\VS2017Developer\Cap01\App.Data\App.Data\bin\Debug\App.Data.pdb
+C:\VS2017Developer\Cap01\App.Data\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\VS2017Developer\Cap01\App.Data\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\VS2017Developer\Cap01\App.Data\App.Data\obj\Debug\App.Data.dll
+C:\VS2017Developer\Cap01\App.Data\App.Data\obj\Debug\App.Data.pdb
+C:\VS2017Developer\github\Cap01\App.Data\App.Data\bin\Debug\App.Data.dll
+C:\VS2017Developer\github\Cap01\App.Data\App.Data\bin\Debug\App.Data.pdb
+C:\VS2017Developer\github\Cap01\App.Data\App.Data\obj\Debug\App.Data.csprojAssemblyReference.cache
+C:\VS2017Developer\github\Cap01\App.Data\App.Data\obj\Debug\App.Data.csproj.CoreCompileInputs.cache
+C:\VS2017Developer\github\Cap01\App.Data\App.Data\obj\Debug\App.Data.dll
+C:\VS2017Developer\github\Cap01\App.Data\App.Data\obj\Debug\App.Data.pdb
