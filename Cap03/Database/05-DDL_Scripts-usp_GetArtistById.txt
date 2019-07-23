@@ -1,0 +1,12 @@
+CREATE PROCEDURE usp_GetArtistById
+(
+	@ID INT
+)
+AS
+BEGIN
+
+	SELECT *
+	FROM Artist
+	WHERE ArtistId=@ID
+
+END

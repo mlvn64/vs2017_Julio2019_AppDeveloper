@@ -1,0 +1,11 @@
+CREATE PROCEDURE usp_DeleteArtist
+(
+	@ID INT
+)
+AS
+BEGIN
+
+	DELETE Artist
+	WHERE ArtistId=@ID
+
+END

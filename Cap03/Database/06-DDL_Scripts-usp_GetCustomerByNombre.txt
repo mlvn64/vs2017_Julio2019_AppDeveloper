@@ -1,0 +1,12 @@
+CREATE PROCEDURE usp_GetCustomerByNombre
+(
+	@FirstName NVARCHAR(40)
+)
+AS
+BEGIN
+
+	SELECT *
+	FROM Customer
+	WHERE FirstName=@FirstName
+
+END

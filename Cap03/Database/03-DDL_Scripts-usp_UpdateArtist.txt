@@ -1,0 +1,13 @@
+CREATE PROCEDURE usp_UpdateArtist
+(
+	@ID INT,
+	@Name NVARCHAR(120)
+)
+AS
+BEGIN
+
+	UPDATE Artist
+	SET Name=@Name
+	WHERE ArtistId=@ID
+
+END
