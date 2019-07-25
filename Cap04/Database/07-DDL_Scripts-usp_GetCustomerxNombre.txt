@@ -1,0 +1,17 @@
+CREATE PROCEDURE usp_GetCustomerxNombre
+(
+	@FullName NVARCHAR(40)
+)
+AS
+BEGIN
+
+	SELECT 
+		[CustomerId], [FirstName], [LastName], 
+		[Company], [Address], [City], [State], 
+		[Country], [PostalCode], [Phone], [Fax], 
+		[Email], [SupportRepId]
+	FROM Customer
+	WHERE @FullName = ''
+		OR (FirstName + ' ' + LastName Like @FullName)
+
+END

@@ -1,0 +1,20 @@
+CREATE PROCEDURE usp_InsertInvoiceLine
+(
+	@InvoiceId INT, 
+	@TrackId INT, 
+	@UnitPrice NUMERIC(10,2), 
+	@Quantity INT
+)
+AS
+BEGIN
+
+	INSERT INTO InvoiceLine
+	(
+		[InvoiceId], [TrackId],	[UnitPrice], [Quantity]
+	)
+	VALUES
+	(
+		@InvoiceId, @TrackId, @UnitPrice, @Quantity
+	)
+
+END
