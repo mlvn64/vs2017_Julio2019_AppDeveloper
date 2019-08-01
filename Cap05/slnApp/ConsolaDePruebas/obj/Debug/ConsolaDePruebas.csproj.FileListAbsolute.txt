@@ -1,0 +1,14 @@
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\App.Entities.Base.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\DapperDAL.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\App.Entities.Base.pdb
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\DapperDAL.pdb
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.xml
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojAssemblyReference.cache
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CoreCompileInputs.cache
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CopyComplete
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb

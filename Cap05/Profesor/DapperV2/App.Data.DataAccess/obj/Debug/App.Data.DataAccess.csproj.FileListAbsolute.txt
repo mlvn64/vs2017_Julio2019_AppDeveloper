@@ -1,0 +1,9 @@
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+C:\Users\VS2017-DEV\source\repos\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete

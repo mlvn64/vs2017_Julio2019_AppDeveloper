@@ -1,0 +1,11 @@
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\bin\Debug\DapperDAL.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\bin\Debug\DapperDAL.pdb
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\bin\Debug\App.Entities.Base.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\bin\Debug\Dapper.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\bin\Debug\App.Entities.Base.pdb
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\bin\Debug\Dapper.xml
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csprojAssemblyReference.cache
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CoreCompileInputs.cache
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CopyComplete
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.dll
+E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.pdb

@@ -1,0 +1,34 @@
+
+USE Chinook
+
+GO
+
+CREATE PROCEDURE GetInvoice(@InvoiceId int)
+AS 
+BEGIN
+
+SELECT * FROM dbo.Invoice WHERE InvoiceId = @InvoiceId
+
+SELECT * FROM dbo.InvoiceLine WHERE InvoiceId = @InvoiceId
+
+END
+
+GO
+
+EXEC dbo.GetInvoice @InvoiceId = 2
+
+GO
+
+CREATE PROCEDURE GetArtist(@ArtistId int)
+AS 
+BEGIN
+
+SELECT * FROM dbo.Artist WHERE ArtistId = @ArtistId
+
+SELECT * FROM dbo.Album WHERE ArtistId = @ArtistId
+
+END
+
+GO
+
+EXEC dbo.GetArtist @ArtistId = 2
