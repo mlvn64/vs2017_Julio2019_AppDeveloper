@@ -12,3 +12,33 @@ E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePr
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CopyComplete
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\App.Entities.Base.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\DapperDAL.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\App.Entities.Base.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\DapperDAL.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.xml
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojAssemblyReference.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CoreCompileInputs.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CopyComplete
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe.config
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.exe
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\ConsolaDePruebas.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\App.Entities.Base.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\DapperDAL.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.Contrib.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\App.Entities.Base.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\DapperDAL.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.xml
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\bin\Debug\Dapper.Contrib.xml
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csprojAssemblyReference.cache
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CoreCompileInputs.cache
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.csproj.CopyComplete
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.exe
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\ConsolaDePruebas\obj\Debug\ConsolaDePruebas.pdb

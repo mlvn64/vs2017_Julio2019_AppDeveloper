@@ -11,8 +11,9 @@ namespace DapperDAL
     public class DALBase
     {
         protected IDbConnection getConnection()
-        {
-            return new SqlConnection("SERVER=S300-ST;DataBase=Chinook; USER ID=sa; PASSWORD=sql");
+        {            
+            return new SqlConnection("SERVER=DESKTOP-MOJLP48\\SQLEXPRESS;DataBase=Chinook; USER ID=sa; PASSWORD=123");
+            //return new SqlConnection("SERVER=S300-ST;DataBase=Chinook; USER ID=sa; PASSWORD=sql");
         }
     }
 }

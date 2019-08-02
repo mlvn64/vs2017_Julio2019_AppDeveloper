@@ -9,3 +9,27 @@ E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\o
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CopyComplete
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.dll
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\bin\Debug\DapperDAL.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\bin\Debug\DapperDAL.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\bin\Debug\App.Entities.Base.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\bin\Debug\Dapper.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\bin\Debug\App.Entities.Base.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\bin\Debug\Dapper.xml
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csprojAssemblyReference.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CoreCompileInputs.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CopyComplete
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\DapperDAL\obj\Debug\DapperDAL.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\DapperDAL.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\DapperDAL.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\App.Entities.Base.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\Dapper.Contrib.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\Dapper.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\App.Entities.Base.pdb
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\Dapper.xml
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\bin\Debug\Dapper.Contrib.xml
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\obj\Debug\DapperDAL.csprojAssemblyReference.cache
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CoreCompileInputs.cache
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\obj\Debug\DapperDAL.csproj.CopyComplete
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\obj\Debug\DapperDAL.dll
+D:\CURSOS\CIBERTEC\VISUAL STUDIO 2017 DEVELOPER\CLASE05\slnApp\DapperDAL\obj\Debug\DapperDAL.pdb

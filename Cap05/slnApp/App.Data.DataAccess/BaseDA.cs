@@ -13,7 +13,8 @@ namespace App.Data.DataAccess
         { 
             get
             {
-                var cnxString = "SERVER=S300-ST;DataBase=Chinook; USER ID=sa; PASSWORD=sql";
+                //var cnxString = "SERVER=S300-ST;DataBase=Chinook; USER ID=sa; PASSWORD=sql";
+                var cnxString = "SERVER=DESKTOP-MOJLP48\\SQLEXPRESS; DataBase=Chinook; USER ID=sa; PASSWORD=123";
 
                 return cnxString;
             }

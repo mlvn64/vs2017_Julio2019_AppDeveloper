@@ -1,4 +1,5 @@
-﻿using DapperDAL;
+﻿using App.Entities.Base;
+using DapperDAL;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,12 +12,21 @@ namespace ConsolaDePruebas
     {
         static void Main(string[] args)
         {
-            ArtistAlbumDapperDAL artistAlbumDapperDAL = new ArtistAlbumDapperDAL();
-            var artist = artistAlbumDapperDAL.GetArtistById(2);
-            Console.WriteLine(artist.Name);
-            artist.Album.ForEach(line =>
+            ProductDapperDAL productDapperDAL = new ProductDapperDAL();
+            productDapperDAL.RegisterProduct(new Product()
             {
-                Console.WriteLine(line.Title);
+                Name = "Chocolate",
+                Description = "Es un Chocolate"
+            });
+            productDapperDAL.RegisterProduct(new Product()
+            {
+                Name = "Caramelo",
+                Description = "Es un caramelo"
+            });
+
+            productDapperDAL.ListAllProducts().ForEach(product =>
+            {
+                Console.WriteLine($"{product.Id}) {product.Name}");
             });
             Console.ReadKey();
         }
@@ -43,6 +53,18 @@ namespace ConsolaDePruebas
                 Console.WriteLine(line.TrackId);
             });
             //Console.ReadKey();
+        }
+
+        private static void ListArtistAlbum()
+        {
+            ArtistAlbumDapperDAL artistAlbumDapperDAL = new ArtistAlbumDapperDAL();
+            var artist = artistAlbumDapperDAL.GetArtistById(2);
+            Console.WriteLine(artist.Name);
+            artist.Album.ForEach(line =>
+            {
+                Console.WriteLine(line.Title);
+            });
+            Console.ReadKey();
         }
     }
 }

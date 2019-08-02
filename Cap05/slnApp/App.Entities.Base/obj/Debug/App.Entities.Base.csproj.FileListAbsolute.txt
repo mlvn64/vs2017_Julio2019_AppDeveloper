@@ -24,3 +24,11 @@ E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\App.Entitie
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CopyComplete
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\bin\Debug\App.Entities.Base.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\bin\Debug\Dapper.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\bin\Debug\Dapper.xml
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CoreCompileInputs.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.csproj.CopyComplete
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Entities.Base\obj\Debug\App.Entities.Base.pdb

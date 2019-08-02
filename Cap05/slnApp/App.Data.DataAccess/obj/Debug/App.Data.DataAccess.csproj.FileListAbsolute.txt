@@ -25,3 +25,12 @@ E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap04\slnApp\App.Data.Da
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
 E:\VS2017DEVELOPER\github\vs2017_Julio2019_AppDeveloper\Cap04\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\bin\Debug\App.Data.DataAccess.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\bin\Debug\App.Entities.Base.pdb
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csprojAssemblyReference.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CoreCompileInputs.cache
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.csproj.CopyComplete
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.dll
+D:\Repositorio\VS2017Developer\github\Cap05\slnApp\App.Data.DataAccess\obj\Debug\App.Data.DataAccess.pdb
