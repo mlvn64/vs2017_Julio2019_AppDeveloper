@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using App.Data.DataAccess;
 using App.Entities.Base;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -26,15 +27,38 @@ namespace App.Data.DataAccessTest
 
             Assert.IsTrue(customerValor.LastName == "Goyer");
 
-            ////Actualizando el Artista
-            //artist.Name = "Artist prueba nuevo actualiado";
-            //artist.ArtistId = codigoGenerado;
-            //var updated = da.UpdateArtist(artist);
-            //Assert.IsTrue(updated);
+        }
+
+        [TestMethod]
+        public void GetCustomers()
+        {            
+            var da = new CustomerDA();
+            string nombre = "Jorge";
+            string apellido = "Valdez";
+            var listado = da.GetCustomers(nombre, apellido);
+
+            Assert.IsTrue(listado.Count > 0);
+            //Assert.IsTrue(listado.FirstName == "Jorge" && listado.LastName == "Valdez");
+        }
+
+        [TestMethod]
+        public void Update()
+        {
+            var customer = new Customer();
+            customer.FirstName = "Customer prueba nuevo";
+
+            var da = new CustomerDA();
+            var codigoGenerado = da.InsertarCustomer(customer);
+
+            //Actualizando el Artista
+            customer.FirstName = "Customer prueba nuevo actualiado";
+            customer.CustomerId = codigoGenerado;
+            var updated = da.UpdateCustomer(customer);
+            Assert.IsTrue(updated);
 
 
-            //var artitaUpdate = da.GetArtistById(codigoGenerado);
-            //Assert.IsTrue(artitaUpdate. == "Artist prueba nuevo actualiado");
+            var artitaUpdate = da.GetCustomerById(codigoGenerado);
+            Assert.IsTrue(artitaUpdate.FirstName == "Customer prueba nuevo actualiado");
         }
     }
 }
